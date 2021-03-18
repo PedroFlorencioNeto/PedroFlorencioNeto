@@ -1,7 +1,4 @@
-### Hi there 👋
-(loading)
-<!--
-**PedroFlorencioNeto/PedroFlorencioNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Oi! Seja bem-vindo(a)! 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--
+**PedroFlorencioNeto/PedroFlorencioNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
