@@ -4,7 +4,7 @@ Meu nome é Pedro Florencio, tenho 23 anos e curso Engenharia Elétrica na Unive
 
 - 💻 Cursei a disciplina de Inteligência Computacional Aplicada, onde aprendi diversos algoritmos de Machine Learning e técnicas     importantes;
 - 📊 Sou apaixonado por Estatística e sempre que posso reviso diversos conceitos e técnicas importantes para o estudo dos dados;
-- 🎯️ Meu objetivo em 2021 é conseguir minha primeira experiência profissional na área, e por isso tenho estudado, participado de eventos online, lido e discutido com diversas pessoas e grupos de estudo sobre os assuntos relacionados a Machine Learning/Deep Learning e Ciência de Dados.
+- 🎯️ Meu objetivo em 2021 é conseguir minha primeira experiência profissional na área, e por isso tenho pesquisado, participado de eventos online, lido e discutido com diversas pessoas e grupos de estudo sobre os assuntos relacionados a Machine Learning/Deep Learning e Ciência de Dados.
 
 ### Redes Sociais:
 
