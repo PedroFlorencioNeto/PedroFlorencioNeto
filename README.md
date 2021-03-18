@@ -33,6 +33,8 @@ Meu nome é Pedro Florencio, tenho 23 anos e curso Engenharia Elétrica na Unive
 <br />
 <br />
 
+<img align="left" alt="Pedro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PedroFlorencioNeto&show_icons=true&hide_border=true" />
+
 [medium]: https://medium.com/@pedroflorencio
 [linkedin]: https://www.linkedin.com/in/pedroflorencioneto/
 [instagram]: https://www.instagram.com/_pedroflorencio
