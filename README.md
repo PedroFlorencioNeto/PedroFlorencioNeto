@@ -1,10 +1,6 @@
 ### Olá! Seja muito bem-vindo(a)! ☺️
 
-Meu nome é Pedro Florencio, tenho 23 anos e curso Engenharia Elétrica na Universidade Federal do Ceará (UFC), desde 2016. Em 2018, quando tive meu primeiro contato com o universo de Machine Learning/Deep Learning e Ciência de Dados através de um grupo multidisciplinar de extensão focado nas áreas de Robótica, Automação e Inteligência Artificial, descobri que esta é a área que desejo dedicar meu tempo, tendo em vista o poder que estas ferramentas têm de mudar realidades e impactar diversos ramos positivamente.  
-
-- 💻 Cursei a disciplina de Inteligência Computacional Aplicada, onde aprendi diversos algoritmos de Machine Learning e técnicas     importantes;
-- 📊 Sou apaixonado por Estatística e sempre que posso reviso diversos conceitos e técnicas importantes para o estudo dos dados;
-- 🎯️ Meu objetivo em 2021 é conseguir minha primeira experiência profissional na área, e por isso tenho pesquisado, participado de eventos online, lido e discutido com diversas pessoas e grupos de estudo sobre os assuntos relacionados a Machine Learning/Deep Learning e Ciência de Dados.
+Sou um estudante de Engenharia Elétrica apaixonado por tecnologia e inovação. Busco aprender e compartilhar conhecimentos sobre o universo do Aprendizado de Máquina e Ciência de Dados.
 
 ### Redes Sociais:
 
