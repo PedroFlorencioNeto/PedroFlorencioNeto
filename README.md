@@ -1,8 +1,8 @@
-### Olá! Seja muito bem-vindo(a)! ☺️
+### Hi! ☺️
 
-Sou um estudante de Engenharia Elétrica apaixonado por tecnologia e inovação. Busco aprender e compartilhar conhecimentos sobre o universo do Aprendizado de Máquina e Ciência de Dados.
+I'm an electrical engineering student passionate about Artificial Intelligence and its impact on society.
 
-### Redes Sociais:
+### Social Networks:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/pedroflorencioneto/)
 
@@ -12,7 +12,7 @@ Sou um estudante de Engenharia Elétrica apaixonado por tecnologia e inovação.
 
 <br />
 
-### Ferramentas e Linguagens:
+### Languages and Tools:
 
 <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
