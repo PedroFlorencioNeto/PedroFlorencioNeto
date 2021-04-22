@@ -1,4 +1,4 @@
-### Hi! ☺️
+### Hi! Welcome to my GitHub! ☺️
 
 I'm an electrical engineering student passionate about Artificial Intelligence and its impact on society.
 
