@@ -6,9 +6,9 @@ I'm an electrical engineering student passionate about Artificial Intelligence a
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/pedroflorencioneto/)
 
-[<img align="left" alt="cabreirajm | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@pedroflorencio)
+[<img align="left" alt="pedroflorencio | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@pedroflorencio)
 
-[<img align="left" alt="jhon_cabreira | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/_pedroflorencio)
+[<img align="left" alt="_pedroflorencio | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/_pedroflorencio)
 
 <br />
 
@@ -23,6 +23,8 @@ I'm an electrical engineering student passionate about Artificial Intelligence a
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pytorch.svg" />
 
 <br />
 <br />
