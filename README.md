@@ -2,6 +2,8 @@
 
 I'm an electrical engineering student passionate about Artificial Intelligence and its impact on society.
 
+Atenção! Github passando por reformas, para deixar organizado meu portfólio. Está um pouco desorganizado e faltando projetos, pois estão passando por melhorias e uma melhor escrita no Jupyter Notebook. Grato. Pedro Florencio (22/04/2022)
+
 ### Social Networks:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/pedroflorencioneto/)
