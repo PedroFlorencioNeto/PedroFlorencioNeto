@@ -8,7 +8,7 @@ I am an Electrical Engineering student passionate about technology and innovatio
 
 [<img align="left" alt="pedroflorencio | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@pedroflorencio)
 
-[<img align="left" alt="_pedroflorencio | Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_pedroflorencio)
+[<img align="left" alt="_pedroflorencio | Instagram" width="50px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_pedroflorencio)
 
 <br />
 
