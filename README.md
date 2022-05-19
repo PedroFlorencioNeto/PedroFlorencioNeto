@@ -6,7 +6,7 @@ I am an Electrical Engineering student passionate about technology and innovatio
 
 [<img align="left"  width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pedroflorencioneto/)
 
-[<img align="left" alt="pedroflorencio | medium" width="120px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pedroflorencio)
+[<img align="left" alt="pedroflorencio | medium" width="110px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pedroflorencio)
 
 [<img align="left" alt="_pedroflorencio | Instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_pedroflorencio)
 
