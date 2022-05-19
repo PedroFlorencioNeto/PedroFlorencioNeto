@@ -26,6 +26,8 @@ I'm an electrical engineering student passionate about Artificial Intelligence a
 
 <img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 
+<img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
+
 <br />
 <br />
 
