@@ -1,6 +1,6 @@
 ### Hi! Welcome to my GitHub! ☺️
 
-I'm an electrical engineering student passionate about Artificial Intelligence and its impact on society.
+I am an Electrical Engineering student passionate about technology and innovation. I like to be part of projects that positively impact people. Currently, my focus is Artificial Intelligence (Machine Learning, Deep Learning and Computer Vision), but I am learning the main back-end tools, applying together with agile methodologies to cooperate even more with the projects I work on.
 
 ### Social Networks:
 
