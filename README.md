@@ -11,6 +11,7 @@ I am an Electrical Engineering student passionate about technology and innovatio
 [<img align="left" alt="_pedroflorencio | Instagram" width="130px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_pedroflorencio)
 
 <br />
+<br />
 
 ### Languages and Tools:
 
