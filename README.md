@@ -29,7 +29,7 @@ I'm an electrical engineering student passionate about Artificial Intelligence a
 <br />
 <br />
 
-<img align="left" alt="Pedro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PedroFlorencioNeto&show_icons=true&hide_border=true" />
+<img align="left" alt="Pedro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PedroFlorencioNeto&show_icons=true&theme=dark&hide_border=true" />
 
 [medium]: https://medium.com/@pedroflorencio
 [linkedin]: https://www.linkedin.com/in/pedroflorencioneto/
