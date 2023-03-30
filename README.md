@@ -42,8 +42,6 @@ I am an Electrical Engineering student passionate about technology and innovatio
 <br />
 <br />
 
-![Snake animation](https://github.com/PedroFlorencioNeto/PedroFlorencioNeto/blob/output/github-contribution-grid-snake.svg)
-
 [medium]: https://medium.com/@pedroflorencio
 [linkedin]: https://www.linkedin.com/in/pedroflorencioneto/
 [instagram]: https://www.instagram.com/_pedroflorencio
