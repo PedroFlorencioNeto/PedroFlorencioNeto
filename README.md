@@ -36,9 +36,6 @@ I am an Electrical Engineering student passionate about technology and innovatio
 <br />
 <br />
 <br />
-
-<img align="left" alt="Pedro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PedroFlorencioNeto&show_icons=true&theme=dark&hide_border=true" />
-
 <br />
 <br />
 
