@@ -36,8 +36,6 @@ I am an Electrical Engineering student passionate about technology and innovatio
 <br />
 <br />
 <br />
-<br />
-<br />
 
 [medium]: https://medium.com/@pedroflorencio
 [linkedin]: https://www.linkedin.com/in/pedroflorencioneto/
