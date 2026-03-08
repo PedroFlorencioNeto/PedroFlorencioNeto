@@ -1,6 +1,6 @@
 ### Hello! Welcome to my GitHub! ☺️
 
-I am an Electrical Engineering student passionate about technology and innovation. I like to be part of projects that positively impact people. Currently, my focus is Data Science and Machine Learning, but I am learning the main Data Engineering tools to cooperate even more with the projects I work on.
+I am an Electrical Engineer passionate about technology and innovation. I like to be part of projects that positively impact people. Currently, my focus is Data Science and Machine Learning, but I am learning the main Generative Artificial Intelligence tools to cooperate even more with the projects I work on.
 
 ### Social Networks:
 
